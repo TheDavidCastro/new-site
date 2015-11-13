@@ -1,12 +1,23 @@
-.html, .body {
-	margin: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	padding: 0px;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+.profile-pic {
+	border: 1px solid black;
+	top: 10px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+}
+
+.two-col-box {
+	border: 1px solid black;
+	width: 900px;
+	height: 300px;
+	margin-left: 300px;
+	position:fixed;
+	top: 10px;
+}
+
+.workplace-box {
+	border: 1px solid black;
+	width: 336px;
+	height: 223px;
 }
